@@ -7,10 +7,10 @@
     },
     "digitrust_icp_frontend": {
       "frontend": {
-        "entrypoint": "src/out/index.html"
+        "entrypoint": "src/digitrust_icp_frontend/out/index.html"
       },
       "source": [
-        "src/out"
+        "src/digitrust_icp_frontend/out"
       ],
       "type": "assets"
     }
