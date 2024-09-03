@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/digitrust_icp_backend"
+]
+resolver = "2"
