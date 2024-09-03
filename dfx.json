@@ -4,6 +4,15 @@
       "candid": "src/digitrust_icp_backend/digitrust_icp_backend.did",
       "package": "digitrust_icp_backend",
       "type": "rust"
+    },
+    "digitrust_icp_frontend": {
+      "frontend": {
+        "entrypoint": "src/out/index.html"
+      },
+      "source": [
+        "src/out"
+      ],
+      "type": "assets"
     }
   },
   "defaults": {
